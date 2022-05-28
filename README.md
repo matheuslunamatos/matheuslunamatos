@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Matheus de Luna Matos👋
 
 - 🌱 Estudando Node.js / requisições HTTP
-- 📫 Contate-me no email: matheusluna.matos@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="">
